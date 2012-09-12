@@ -1,0 +1,15 @@
+#*
+ * Access this page at the URL /extensions/stats/
+ *#
+<html>
+  <head>
+    <title>SFDC-Connector Extension</title>
+  </head>
+  <body>
+    <h1>SFDC Connector</h1>
+    
+    <p>
+        Yo.
+    </p>
+  </body>
+</html>
